@@ -2,6 +2,7 @@
 title: "Hello"
 date: 2022-10-09T23:31:41+05:30
 draft: false
+hero: "/images/image-1.jpg"
 ---
 
 ### Install Hugo

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://example.org/post/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Oct 2022 23:31:41 +0530</lastBuildDate><atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello</title>
+      <link>http://example.org/post/hello/</link>
+      <pubDate>Sun, 09 Oct 2022 23:31:41 +0530</pubDate>
+      
+      <guid>http://example.org/post/hello/</guid>
+      <description>Install Hugo https://gohugo.io/getting-started/quick-start/
+brew install hugo
+In github create two repos blog and username.github.io
+Clone blog at your local computer
+cd blog hugo new site doctopus Creates a doctopus folder inside blog/
+Doctopus folder will have the boilerplate folders Since the blog folder is cloned git is already init in it.
+Install the theme of choice as a submodule in the themes folder
+git submodule add https://github.com/xxx/hugo-theme.git themes/hugo-theme
+Notice that this folder was added as a submodule so it can not be deleted.</description>
+    </item>
+    
+  </channel>
+</rss>
